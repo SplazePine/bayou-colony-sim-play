@@ -1,0 +1,166 @@
+{
+ "campfire": {
+  "bones": 1,
+  "clips": {},
+  "kind": "prop",
+  "prop": "campfire",
+  "tris": 284
+ },
+ "nutria": {
+  "bones": 12,
+  "clips": {
+   "bite": {
+    "frames": 14,
+    "loop": true,
+    "seconds": 0.5833333333333334
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "run": {
+    "frames": 12,
+    "loop": true,
+    "seconds": 0.5
+   }
+  },
+  "creature": "nutria",
+  "kind": "creature",
+  "length": 1.6,
+  "runSpeed": 0.8,
+  "tris": 478
+ },
+ "pirogue": {
+  "bones": 1,
+  "clips": {},
+  "kind": "prop",
+  "overturned": true,
+  "prop": "pirogue",
+  "tris": 144
+ },
+ "settler_fisher": {
+  "bones": 16,
+  "clips": {
+   "fight": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "walk": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "work": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   }
+  },
+  "height": 2.32,
+  "kind": "settler",
+  "look": "fisher",
+  "tris": 618,
+  "walkSpeed": 1.4,
+  "woman": false
+ },
+ "settler_healer": {
+  "bones": 16,
+  "clips": {
+   "fight": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "walk": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "work": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   }
+  },
+  "height": 2.32,
+  "kind": "settler",
+  "look": "healer",
+  "tris": 638,
+  "walkSpeed": 1.4,
+  "woman": true
+ },
+ "settler_lantern": {
+  "bones": 16,
+  "clips": {
+   "fight": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "walk": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "work": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   }
+  },
+  "height": 2.32,
+  "kind": "settler",
+  "look": "lantern",
+  "tris": 658,
+  "walkSpeed": 1.4,
+  "woman": true
+ },
+ "settler_trapper": {
+  "bones": 16,
+  "clips": {
+   "fight": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "walk": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "work": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   }
+  },
+  "height": 2.32,
+  "kind": "settler",
+  "look": "trapper",
+  "tris": 622,
+  "walkSpeed": 1.4,
+  "woman": false
+ }
+}
