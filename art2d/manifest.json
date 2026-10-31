@@ -1,0 +1,538 @@
+{
+"shack": [
+512,
+486,
+653,
+620,
+"sprite-shack",
+0.518
+],
+"firepit": [
+260,
+161,
+260,
+161,
+"sheet-props1",
+0.498
+],
+"woodpile_big": [
+266,
+220,
+266,
+220,
+"sheet-props1",
+0.417
+],
+"woodpile_small": [
+199,
+155,
+199,
+155,
+"sheet-props1",
+0.447
+],
+"chopblock": [
+185,
+213,
+185,
+213,
+"sheet-props1",
+0.492
+],
+"workbench": [
+263,
+218,
+263,
+218,
+"sheet-props1",
+0.318
+],
+"barrel": [
+144,
+208,
+144,
+208,
+"sheet-props1",
+0.502
+],
+"crate": [
+195,
+198,
+195,
+198,
+"sheet-props1",
+0.566
+],
+"stump": [
+167,
+227,
+167,
+227,
+"sheet-props1",
+0.48
+],
+"pirogue": [
+303,
+202,
+303,
+202,
+"sheet-props2",
+0.226
+],
+"pirogue_over": [
+283,
+193,
+283,
+193,
+"sheet-props2",
+0.125
+],
+"log": [
+285,
+194,
+285,
+194,
+"sheet-props2",
+0.187
+],
+"boulder": [
+264,
+230,
+264,
+230,
+"sheet-props2",
+0.479
+],
+"stones": [
+222,
+144,
+222,
+144,
+"sheet-props2",
+0.477
+],
+"berrybush": [
+248,
+221,
+248,
+221,
+"sheet-props2",
+0.508
+],
+"sticks": [
+273,
+200,
+273,
+200,
+"sheet-props2",
+0.255
+],
+"mushrooms": [
+249,
+210,
+249,
+210,
+"sheet-props2",
+0.514
+],
+"cattails_a": [
+189,
+271,
+189,
+271,
+"sheet-plants",
+0.483
+],
+"cattails_b": [
+168,
+229,
+168,
+229,
+"sheet-plants",
+0.492
+],
+"reeds": [
+192,
+279,
+192,
+279,
+"sheet-plants",
+0.473
+],
+"grass_a": [
+196,
+161,
+196,
+161,
+"sheet-plants",
+0.493
+],
+"grass_b": [
+151,
+131,
+151,
+131,
+"sheet-plants",
+0.532
+],
+"fern": [
+259,
+237,
+259,
+237,
+"sheet-plants",
+0.466
+],
+"moss": [
+211,
+160,
+211,
+160,
+"sheet-plants",
+0.487
+],
+"cane": [
+207,
+260,
+207,
+260,
+"sheet-plants",
+0.512
+],
+"fishrack": [
+247,
+248,
+247,
+248,
+"sheet-props3",
+0.148
+],
+"cookpot": [
+210,
+216,
+210,
+216,
+"sheet-props3",
+0.524
+],
+"trap": [
+234,
+228,
+234,
+228,
+"sheet-props3",
+0.456
+],
+"altar": [
+205,
+236,
+205,
+236,
+"sheet-props3",
+0.533
+],
+"lily_cluster": [
+230,
+168,
+230,
+168,
+"sheet-props3",
+0.503
+],
+"lily": [
+200,
+132,
+200,
+132,
+"sheet-props3",
+0.536
+],
+"nutria": [
+240,
+172,
+240,
+172,
+"sheet-props3",
+0.248
+],
+"post": [
+124,
+185,
+124,
+185,
+"sheet-props3",
+0.424
+],
+"m_idle": [
+125,
+343,
+125,
+343,
+"sheet-man",
+0.487
+],
+"m_chop": [
+207,
+383,
+207,
+383,
+"sheet-man",
+0.499
+],
+"m_crouch": [
+178,
+205,
+178,
+205,
+"sheet-man",
+0.458
+],
+"m_carry": [
+227,
+435,
+227,
+435,
+"sheet-man2",
+0.46
+],
+"m_fish": [
+284,
+435,
+284,
+435,
+"sheet-man2",
+0.689
+],
+"m_feed": [
+320,
+290,
+320,
+290,
+"sheet-man2",
+0.528
+],
+"m_chop2": [
+279,
+341,
+279,
+341,
+"sheet-man3",
+0.61
+],
+"m_hammer": [
+277,
+329,
+277,
+329,
+"sheet-man3",
+0.611
+],
+"m_lantern": [
+201,
+435,
+201,
+435,
+"sheet-man3",
+0.578
+],
+"w_chop2": [
+321,
+370,
+321,
+370,
+"sheet-woman2",
+0.556
+],
+"w_fish": [
+250,
+473,
+250,
+473,
+"sheet-woman2",
+0.699
+],
+"w_lantern": [
+211,
+459,
+211,
+459,
+"sheet-woman2",
+0.622
+],
+"w_idle": [
+118,
+357,
+118,
+357,
+"sheet-woman",
+0.507
+],
+"w_chop": [
+211,
+397,
+211,
+397,
+"sheet-woman",
+0.445
+],
+"w_carry": [
+170,
+334,
+170,
+334,
+"sheet-woman",
+0.401
+],
+"w_crouch": [
+186,
+212,
+186,
+212,
+"sheet-woman",
+0.448
+],
+"cypress_a": [
+301,
+512,
+363,
+617,
+"sheet-trees2",
+0.514
+],
+"cypress_b": [
+284,
+512,
+343,
+619,
+"sheet-trees2",
+0.505
+],
+"cypress_c": [
+292,
+512,
+352,
+618,
+"sheet-trees2",
+0.513
+],
+"m_walk": [
+210,
+383,
+210,
+383,
+"sheet-man-walk",
+0.461
+],
+"m_pass": [
+185,
+430,
+185,
+430,
+"sheet-man-pass",
+0.443
+],
+"m_carry_pass": [
+220,
+424,
+220,
+424,
+"sheet-man-pass",
+0.485
+],
+"m_chop_mid": [
+359,
+407,
+359,
+407,
+"sheet-man-pass",
+0.66
+],
+"m_carry_a": [
+193,
+365,
+193,
+365,
+"sheet-man-carrychop",
+0.452
+],
+"m_carry_b": [
+184,
+358,
+184,
+358,
+"sheet-man-carrychop",
+0.423
+],
+"m_chop_up": [
+212,
+390,
+212,
+390,
+"sheet-man-carrychop",
+0.496
+],
+"w_walk": [
+194,
+412,
+194,
+412,
+"sheet-woman-walk",
+0.38
+],
+"w_pass": [
+159,
+418,
+159,
+418,
+"sheet-woman-walk",
+0.522
+],
+"w_pass2": [
+214,
+426,
+214,
+426,
+"sheet-woman-pass",
+0.463
+],
+"w_carry_pass": [
+226,
+424,
+226,
+424,
+"sheet-woman-pass",
+0.458
+],
+"w_chop_mid": [
+368,
+395,
+368,
+395,
+"sheet-woman-pass",
+0.622
+],
+"w_carry_a": [
+164,
+362,
+164,
+362,
+"sheet-woman-carrychop",
+0.397
+],
+"w_carry_b": [
+161,
+360,
+161,
+360,
+"sheet-woman-carrychop",
+0.365
+],
+"w_chop_up": [
+214,
+404,
+214,
+404,
+"sheet-woman-carrychop",
+0.483
+]
+}
