@@ -1,4 +1,87 @@
 {
+ "dog": {
+  "bones": 16,
+  "clips": {
+   "happy": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "nap": {
+    "frames": 96,
+    "loop": true,
+    "seconds": 4.0
+   },
+   "trot": {
+    "frames": 12,
+    "loop": true,
+    "seconds": 0.5
+   }
+  },
+  "creature": "dog",
+  "kind": "critter",
+  "length": 0.95,
+  "speeds": {
+   "trot": 0.7466666666666668
+  },
+  "tris": 3080
+ },
+ "gator": {
+  "bones": 16,
+  "clips": {
+   "crawl": {
+    "frames": 24,
+    "loop": true,
+    "seconds": 1.0
+   },
+   "idle": {
+    "frames": 96,
+    "loop": true,
+    "seconds": 4.0
+   },
+   "snap": {
+    "frames": 36,
+    "loop": false,
+    "seconds": 1.5
+   }
+  },
+  "creature": "gator",
+  "kind": "critter",
+  "length": 2.6,
+  "speeds": {
+   "crawl": 0.23333333333333336
+  },
+  "tris": 6276
+ },
+ "heron": {
+  "bones": 13,
+  "clips": {
+   "idle": {
+    "frames": 96,
+    "loop": true,
+    "seconds": 4.0
+   },
+   "strike": {
+    "frames": 30,
+    "loop": true,
+    "seconds": 1.25
+   },
+   "walk": {
+    "frames": 32,
+    "loop": true,
+    "seconds": 1.3333333333333333
+   }
+  },
+  "creature": "heron",
+  "kind": "critter",
+  "length": 0.6,
+  "tris": 2268
+ },
  "owl": {
   "bones": 11,
   "clips": {
