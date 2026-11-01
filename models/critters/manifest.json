@@ -1,0 +1,59 @@
+{
+ "owl": {
+  "bones": 11,
+  "clips": {
+   "fly": {
+    "frames": 12,
+    "loop": true,
+    "seconds": 0.5
+   },
+   "idle": {
+    "frames": 144,
+    "loop": true,
+    "seconds": 6.0
+   },
+   "land": {
+    "frames": 24,
+    "loop": false,
+    "seconds": 1.0
+   }
+  },
+  "creature": "owl",
+  "kind": "critter",
+  "length": 0.42,
+  "tris": 5748
+ },
+ "raccoon": {
+  "bones": 14,
+  "clips": {
+   "grab": {
+    "frames": 40,
+    "loop": true,
+    "seconds": 1.6666666666666667
+   },
+   "idle": {
+    "frames": 48,
+    "loop": true,
+    "seconds": 2.0
+   },
+   "sneak": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   },
+   "waddle": {
+    "frames": 16,
+    "loop": true,
+    "seconds": 0.6666666666666666
+   }
+  },
+  "creature": "raccoon",
+  "kind": "critter",
+  "length": 0.62,
+  "speeds": {
+   "sneak": 0.25000000000000006,
+   "waddle": 0.24000000000000002
+  },
+  "tris": 4872
+ }
+}
